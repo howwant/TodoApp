@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TodoApp_cloneCoding/static/css/main.908d0b9f.css",
+    "main.js": "/TodoApp_cloneCoding/static/js/main.59495b0e.js",
+    "static/js/787.441e7bff.chunk.js": "/TodoApp_cloneCoding/static/js/787.441e7bff.chunk.js",
+    "index.html": "/TodoApp_cloneCoding/index.html",
+    "main.908d0b9f.css.map": "/TodoApp_cloneCoding/static/css/main.908d0b9f.css.map",
+    "main.59495b0e.js.map": "/TodoApp_cloneCoding/static/js/main.59495b0e.js.map",
+    "787.441e7bff.chunk.js.map": "/TodoApp_cloneCoding/static/js/787.441e7bff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.908d0b9f.css",
+    "static/js/main.59495b0e.js"
+  ]
+}
