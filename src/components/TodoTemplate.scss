@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&family=Yeon+Sung&display=swap');
+
 .TodoTemplate {
     width: 512px;
     margin-left: auto;
@@ -6,11 +8,12 @@
     border-radius: 4px;
     overflow: hidden;
     
-    .app-title {
-        background-color: #04081d;
+    .app-title {   
+        font-family: 'Yeon Sung', cursive;
+        background-color: #6f6ab3;
         color: white;
         height: 4rem;
-        font-size: 1.5rem;
+        font-size: 2rem;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -27,4 +30,7 @@
     .content {
         background: white;
     }
+}
+* {
+    font-family: 'Noto Sans KR', sans-serif;
 }
