@@ -1,6 +1,7 @@
 .TodoInsert {
     display: flex;
     background: #d0d3e1;
+    justify-content: space-between;
     input {
         background: none;
         outline: none;
@@ -9,6 +10,8 @@
         font-size: 1.125rem;
         line-height: 1.5;
         color: #333;
+        width: calc(100% - 58px);
+        display: block;
         &::placeholder{
             color: #333;
         }
