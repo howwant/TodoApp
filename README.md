@@ -1,4 +1,6 @@
-# 미리보기 사이트 중단
+리액트로 제작된 Todo입니다.
+
+# 미리보기 사이트
 https://howwant.github.io/TodoApp_cloneCoding
 
 # Getting Started with Create React App
